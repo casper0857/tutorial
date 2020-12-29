@@ -1,2 +1,3 @@
 # tutorial
 add modified added tag
+commit record status of index
