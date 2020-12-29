@@ -1,3 +1,4 @@
 # tutorial
 add modified added tag
 commit record status of index
+pull 取得遠端數據庫的內容
